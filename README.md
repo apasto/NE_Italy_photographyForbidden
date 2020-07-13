@@ -1,4 +1,4 @@
-# Vectorization of a cold-war era sign, forbidding photography and survey along Italy eastern border.
+# Vectorization of a cold-war era sign, forbidding photography and survey along Italy eastern border
 
 These four-language signs were put up by Italy in the teal coloured area, an approx. 20-30 km buffer zone along the border with Austria and the then SFR Yugoslavia (current border with the Republic of Slovenia, 1991-).
 
@@ -13,7 +13,7 @@ Placeholder.
 
 ## Sources
 
-* [Emblem of the Italian Republic](https://commons.wikimedia.org/wiki/Image:Emblem_of_Italy.svg), svg version by Wikimedia Commons user [F l a n k e r](https://commons.wikimedia.org/wiki/User:F_l_a_n_k_e_r), derived from the original of Paolo Paschetto. 
+* [Emblem of the Italian Republic](https://commons.wikimedia.org/wiki/Image:Emblem_of_Italy.svg), svg version by Wikimedia Commons user [F l a n k e r](https://commons.wikimedia.org/wiki/User:F_l_a_n_k_e_r), derived from the original of Paolo Paschetto.
 
 * Border of Region Friuli Venezia Giulia: [IRDAT FVG](http://www.regione.fvg.it/rafvg/cms/RAFVG/ambiente-territorio/conoscere-ambiente-territorio/FOGLIA2/)
 
@@ -27,6 +27,7 @@ This is far from a one-to-one, high fidelity reproduction of the original sign.
 
 I have carried out this vectorization for cosmetic purposes, its inteded use being printing a new sign to put in [*Bunker San Michele*](https://goo.gl/maps/dDtiNgSph5jxkdhC7), a restored cold-war era Italian fortification (1969-1992).
 More details, mostly in Italian, here:
+
 * [facebook.com/bunkersanmichele](https://www.facebook.com/bunkersanmichele)
 * [bunkersanmichele.blogspot.com](http://bunkersanmichele.blogspot.com/)
 * [fanteriadarresto.altervista.org](http://fanteriadarresto.altervista.org/bunkersm.html).
