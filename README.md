@@ -1,5 +1,16 @@
 # Vectorization of a cold-war era sign, forbidding photography and survey along Italy eastern border.
 
+These four-language signs were put up by Italy in the teal coloured area, an approx. 20-30 km buffer zone along the border with Austria and the then SFR Yugoslavia (current border with the Republic of Slovenia, 1991-).
+
+To current knowledge, no one of the original signs has been left standing.
+
+This is a vectorization of the scarce photographic material available, enhanced by current geospatial data. Fidelity to the original material cannot be guaranteed (see Disclaimer).
+It has been carried out in QGIS and Inkscape.
+
+## Contents
+
+Placeholder.
+
 ## Sources
 
 * [Emblem of the Italian Republic](https://commons.wikimedia.org/wiki/Image:Emblem_of_Italy.svg), svg version by Wikimedia Commons user [F l a n k e r](https://commons.wikimedia.org/wiki/User:F_l_a_n_k_e_r), derived from the original of Paolo Paschetto. 
@@ -22,7 +33,7 @@ More details, mostly in Italian, here:
 
 The chosen font, a reproduction of an old version of [DIN 1451](https://en.wikipedia.org/wiki/DIN_1451), is a reasonably close match to the original.
 
-Borders, other geographical features, and translations were kept as close as possibile to the original sign.
+Borders, other geographical features, translation contents were kept as close as possibile to the original sign, if not identical.
 They may be outdated and are by no means authoritative, nor imply endorsement by the author.
 
 Few pictures of the original sign can be found, e.g. the one available [here](http://fanteriadarresto.altervista.org/opere_armamenti.html) ([archived link](https://web.archive.org/web/20191224211438/http://fanteriadarresto.altervista.org/opere_armamenti.html)).
