@@ -25,6 +25,8 @@ More details on Bunker San Michele, a restored cold-war era Italian fortificatio
 
 ## Contents
 
+**TL;DR**: download a vector pdf [here](./releases/latest])
+
 * `photography_forbidden_FVG_inkscape.svg` Inkscape SVG, refer to this file to re-export, convert, or edit the sign.
 * `photography_forbidden_FVG_native.svg` "native SVG" converted from the Inkscape version, kept for compatibility.
 * `photography_forbidden_FVG_converted.pdf` PDF conversion of the SVG file.
