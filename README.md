@@ -15,7 +15,13 @@ It has been carried out in [QGIS](https://qgis.org/) and [Inkscape](https://inks
 
 ![The sign graphics printed on a metal road sign panel](./printed_and_mounted_Bunker_San_Michele.jpg)
 
-(the printed version pictured above shows a leftward shift in the sea hatching — a subtle printing artefact, unfortunately)
+The printed version pictured above shows a leftward shift in the sea hatching — a subtle printing artefact, unfortunately.
+
+More details on Bunker San Michele, a restored cold-war era Italian fortification (1969-1992):
+
+* [facebook.com/bunkersanmichele](https://www.facebook.com/bunkersanmichele)
+* [bunkersanmichele.blogspot.com](http://bunkersanmichele.blogspot.com/)
+* [fanteriadarresto.altervista.org](http://fanteriadarresto.altervista.org/bunkersm.html).
 
 ## Contents
 
@@ -42,12 +48,7 @@ It has been carried out in [QGIS](https://qgis.org/) and [Inkscape](https://inks
 
 This is far from a one-to-one, high fidelity reproduction of the original sign.
 
-I have carried out this vectorization for cosmetic purposes, its intended use being printing a new sign to put in [*Bunker San Michele*](https://goo.gl/maps/dDtiNgSph5jxkdhC7), a restored cold-war era Italian fortification (1969-1992).
-More details, mostly in Italian, here:
-
-* [facebook.com/bunkersanmichele](https://www.facebook.com/bunkersanmichele)
-* [bunkersanmichele.blogspot.com](http://bunkersanmichele.blogspot.com/)
-* [fanteriadarresto.altervista.org](http://fanteriadarresto.altervista.org/bunkersm.html).
+I have carried out this vectorization for cosmetic purposes, its intended use being printing a new sign to put in [*Bunker San Michele*](https://goo.gl/maps/dDtiNgSph5jxkdhC7).
 
 The chosen font, a reproduction of an old version of [DIN 1451](https://en.wikipedia.org/wiki/DIN_1451), is a reasonably close match to the original.
 
