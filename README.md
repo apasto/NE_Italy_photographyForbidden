@@ -25,16 +25,16 @@ More details on Bunker San Michele, a restored cold-war era Italian fortificatio
 
 ## Contents
 
-**TL;DR**: download a vector pdf [here](./releases/latest])
+**TL;DR**: download a vector pdf [here](../../releases/latest/download/photography_forbidden_FVG_converted.pdf)
 
-* `photography_forbidden_FVG_inkscape.svg` Inkscape SVG, refer to this file to re-export, convert, or edit the sign.
-* `photography_forbidden_FVG_native.svg` "native SVG" converted from the Inkscape version, kept for compatibility.
-* `photography_forbidden_FVG_converted.pdf` PDF conversion of the SVG file.
-* `photography_forbidden_FVG_raster_small.png` low-resolution raster, for this Readme purposes.
-* `printed_and_mounted_Bunker_San_Michele.jpg` a picture of the printed sign, mounted on site in [*Bunker San Michele*](https://goo.gl/maps/dDtiNgSph5jxkdhC7).
-* `sign_map.qgs` QGIS project (saved in version 3.14) containing the vector geographical data used in the SVG file
-* `raster_sign_georeferenced.tif` geotiff from a picture of an original sing, trimmed to the map-only portion (CRS: EPSG:6173 - ETRS89 / UTM zone 33N)
-* `shapefiles` directory: contains the geospatial data, cited below (see Sources)
+* [`photography_forbidden_FVG_inkscape.svg`](./photography_forbidden_FVG_inkscape.svg) Inkscape SVG, refer to this file to re-export, convert, or edit the sign.
+* [`photography_forbidden_FVG_native.svg`](./photography_forbidden_FVG_native.svg) "native SVG" converted from the Inkscape version, kept for compatibility.
+* [`photography_forbidden_FVG_converted.pdf`](./photography_forbidden_FVG_converted.pdf) PDF conversion of the SVG file.
+* [`photography_forbidden_FVG_raster_small.png`](./photography_forbidden_FVG_raster_small.png) low-resolution raster, for this Readme purposes.
+* [`printed_and_mounted_Bunker_San_Michele.jpg`](./printed_and_mounted_Bunker_San_Michele.jpg) a picture of the printed sign, mounted on site in [*Bunker San Michele*](https://goo.gl/maps/dDtiNgSph5jxkdhC7).
+* [`sign_map.qgs`](./sign_map.qgs) QGIS project (saved in version 3.14) containing the vector geographical data used in the SVG file
+* [`raster_sign_georeferenced.tif`](./raster_sign_georeferenced.tif) geotiff from a picture of an original sing, trimmed to the map-only portion (CRS: EPSG:6173 - ETRS89 / UTM zone 33N)
+* [`shapefiles`](./shapefiles/) directory: contains the geospatial data, cited below (see Sources)
 
 ## Sources
 
