@@ -36,6 +36,11 @@ More details on Bunker San Michele, a restored cold-war era Italian fortificatio
 * [`raster_sign_georeferenced.tif`](./raster_sign_georeferenced.tif) geotiff from a picture of an original sing, trimmed to the map-only portion (CRS: EPSG:6173 - ETRS89 / UTM zone 33N)
 * [`shapefiles`](./shapefiles/) directory: contains the geospatial data, cited below (see Sources)
 
+New: _light version_, black-on-white and grayscale, more print-friendly:
+
+* [`photography_forbidden_FVG_lightVersion_bw_inkscape.svg`](./photography_forbidden_FVG_lightVersion_bw_inkscape.svg) Inkscape SVG.
+* [`photography_forbidden_FVG_lightVersion_bw_converted.pdf`](./photography_forbidden_FVG_lightVersion_bw_converted.pdf) PDF conversion of the SVG file.
+
 ## Sources
 
 * [Emblem of the Italian Republic](https://commons.wikimedia.org/wiki/Image:Emblem_of_Italy.svg), SVG version by Wikimedia Commons user [F l a n k e r](https://commons.wikimedia.org/wiki/User:F_l_a_n_k_e_r), derived from the original of Paolo Paschetto. It is hereby used for graphical and historical accuracy to the original sign — it **does not** imply endorsement or officiality.
