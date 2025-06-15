@@ -19,6 +19,7 @@ The printed version pictured above shows a leftward shift in the sea hatching â€
 
 More details on Bunker San Michele, a restored cold-war era Italian fortification (1969-1992):
 
+* [frontieraest.it/en/mount-san-michele](https://www.frontieraest.it/en/mount-san-michele/) from _Frontiera Est_, a project devoted to the enhancement, for educational and tourism-related purposes, of defensive structures built on Italyâ€™s Eastern border throughout the 20th century.
 * [facebook.com/bunkersanmichele](https://www.facebook.com/bunkersanmichele)
 * [bunkersanmichele.blogspot.com](http://bunkersanmichele.blogspot.com/)
 * [fanteriadarresto.altervista.org](http://fanteriadarresto.altervista.org/bunkersm.html).
