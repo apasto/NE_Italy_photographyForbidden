@@ -17,6 +17,13 @@ It has been carried out in [QGIS](https://qgis.org/) and [Inkscape](https://inks
 
 The printed version pictured above shows a leftward shift in the sea hatching — a subtle printing artefact, unfortunately.
 
+> [!WARNING]
+> The printed sign shown above has been reported as **stolen** in March 2022!
+>
+> Please report any sightings of it (e.g. on listings, surplus market events, any picture, etc.).
+>
+> Look for the subtle printing error mentioned above, that is a telltale sign.
+
 More details on Bunker San Michele, a restored cold-war era Italian fortification (1969-1992):
 
 * [frontieraest.it/en/mount-san-michele](https://www.frontieraest.it/en/mount-san-michele/) from _Frontiera Est_, a project devoted to the enhancement, for educational and tourism-related purposes, of defensive structures built on Italy’s Eastern border throughout the 20th century.
